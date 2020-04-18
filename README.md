@@ -4,13 +4,13 @@ This application demonstrates how roads and parking lots can be represented as g
 
 The application provides a GUI with the option to load maps and annotate intersections, roads, parking spots etc.
 
-If existing annotation exists, the GUI will suggest to use them.
+If annotations already exists, the GUI will suggest to use them.
 
 As well, an A* demonstration is provided by choosing 2 intersections. The application will calculate the best route and show it on the map.
 
 The annotation can be presented as a graph to understand how the A* algorithm perceives the scene.
 
-![](media/mapping_tool_demo.gif)
+![Mapping Tool Demo](media/mapping_tool_demo.gif)
 
 # Installing
 
