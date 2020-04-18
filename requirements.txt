@@ -1,0 +1,10 @@
+cycler
+kiwisolve
+matplotli
+numpy
+pyparsin
+PyQt5
+PyQt5-sip
+pyqtgraph
+python-dateuti
+six

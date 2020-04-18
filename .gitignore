@@ -1,0 +1,14 @@
+# vscode
+.vscode/
+
+# pycharm
+.idea/
+
+#python
+*.pyc
+venv/
+
+# other
+*.db
+*.pd
+*/temporary_map_graph.pd
