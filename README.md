@@ -10,22 +10,25 @@ As well, an A* demonstration is provided by choosing 2 intersections. The applic
 
 The annotation can be presented as a graph to understand how the A* algorithm perceives the scene.
 
-![Mapping Tool Demo](media/mapping_tool_demo.gif)
+![Mapping Tool Demo](media/mapping_tool_demo_short.gif)
 
-# Installing
+## Installing
 
 * Create a python virtual environment and install packages using:
+
 ```
 cd path/to/repo
 pip install -r requirements.txt
 ```
 
 * Activate python's virtual environment:
+
 ```
 source venv/bin/activate
 ```
 
 * run the application:
+
 ```
 python mapping_tool_a_star/MappingTool.py
 ```   
